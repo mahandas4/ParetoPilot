@@ -1,6 +1,5 @@
 {
   "synthetic_example": true,
-  "warning": "FORMAT DEMO ONLY - NOT EXPERIMENTAL EVIDENCE",
   "bootstrap_seed": 20260814,
   "bootstrap_resamples": 10000,
   "total_trials": 600,
