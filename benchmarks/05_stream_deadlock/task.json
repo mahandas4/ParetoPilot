@@ -1,0 +1,1 @@
+{"extends":"../defaults.json","name":"05_stream_deadlock","difficulty":"hard","timeout_s":120}

@@ -1,0 +1,15 @@
+{
+  "name": "ParetoPilot-10",
+  "tasks": [
+    "01_compile_repair/task.json",
+    "02_functional_mismatch/task.json",
+    "03_numerical_tolerance/task.json",
+    "04_interface_protocol/task.json",
+    "05_stream_deadlock/task.json",
+    "06_incorrect_dataflow/task.json",
+    "07_timing_constraint/task.json",
+    "08_resource_limit/task.json",
+    "09_pipeline_optimisation/task.json",
+    "10_memory_partition/task.json"
+  ]
+}

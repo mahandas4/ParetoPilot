@@ -1,0 +1,257 @@
+synthetic_example,system,trial_id,fixture,difficulty,failure_stage,failure_category,heldout_correct,cq_synthesis,notes
+True,A0 Full,A0-vector_add-s05,vector_add,easy,qualification,constraint_violation,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-fir16-s06,fir16,easy,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-moving_average-s00,moving_average,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-moving_average-s07,moving_average,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-dot_product-s05,dot_product,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-matrix_multiply_4x4-s07,matrix_multiply_4x4,medium,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-matrix_multiply_4x4-s09,matrix_multiply_4x4,medium,qualification,constraint_violation,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-convolution_1d-s00,convolution_1d,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-convolution_1d-s06,convolution_1d,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-fft8-s03,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-fft8-s06,fft8,hard,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-fft8-s07,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-fft8-s08,fft8,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-sobel_3x3-s06,sobel_3x3,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-sobel_3x3-s07,sobel_3x3,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-crc32_stream-s00,crc32_stream,hard,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-crc32_stream-s01,crc32_stream,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A0 Full,A0-crc32_stream-s04,crc32_stream,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-vector_add-s03,vector_add,easy,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-vector_add-s09,vector_add,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-axpy-s02,axpy,easy,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-fir16-s00,fir16,easy,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-fir16-s06,fir16,easy,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-fir16-s07,fir16,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-moving_average-s00,moving_average,medium,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-moving_average-s01,moving_average,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-moving_average-s02,moving_average,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-moving_average-s06,moving_average,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-moving_average-s08,moving_average,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-dot_product-s00,dot_product,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-dot_product-s04,dot_product,medium,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-matrix_multiply_4x4-s00,matrix_multiply_4x4,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-matrix_multiply_4x4-s01,matrix_multiply_4x4,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-matrix_multiply_4x4-s04,matrix_multiply_4x4,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-matrix_multiply_4x4-s05,matrix_multiply_4x4,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-convolution_1d-s01,convolution_1d,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-convolution_1d-s02,convolution_1d,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-fft8-s02,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-fft8-s03,fft8,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-fft8-s05,fft8,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-fft8-s06,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-fft8-s07,fft8,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-fft8-s09,fft8,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-sobel_3x3-s01,sobel_3x3,hard,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-sobel_3x3-s03,sobel_3x3,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-sobel_3x3-s04,sobel_3x3,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-sobel_3x3-s06,sobel_3x3,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-sobel_3x3-s07,sobel_3x3,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-crc32_stream-s00,crc32_stream,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-crc32_stream-s04,crc32_stream,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A1 No diagnosis,A1-crc32_stream-s06,crc32_stream,hard,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-vector_add-s00,vector_add,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-vector_add-s05,vector_add,easy,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-vector_add-s07,vector_add,easy,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-vector_add-s08,vector_add,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-axpy-s01,axpy,easy,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-axpy-s04,axpy,easy,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-fir16-s00,fir16,easy,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-fir16-s04,fir16,easy,qualification,constraint_violation,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-fir16-s06,fir16,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-fir16-s08,fir16,easy,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-moving_average-s01,moving_average,medium,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-moving_average-s02,moving_average,medium,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-moving_average-s05,moving_average,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-moving_average-s06,moving_average,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-dot_product-s00,dot_product,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-dot_product-s01,dot_product,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-dot_product-s03,dot_product,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-dot_product-s04,dot_product,medium,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-dot_product-s05,dot_product,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-dot_product-s08,dot_product,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-dot_product-s09,dot_product,medium,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-matrix_multiply_4x4-s07,matrix_multiply_4x4,medium,qualification,constraint_violation,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-matrix_multiply_4x4-s08,matrix_multiply_4x4,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-convolution_1d-s01,convolution_1d,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-convolution_1d-s02,convolution_1d,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-convolution_1d-s03,convolution_1d,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-convolution_1d-s06,convolution_1d,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-convolution_1d-s08,convolution_1d,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-convolution_1d-s09,convolution_1d,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-fft8-s00,fft8,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-fft8-s01,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-fft8-s02,fft8,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-fft8-s06,fft8,hard,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-fft8-s07,fft8,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-fft8-s08,fft8,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-sobel_3x3-s00,sobel_3x3,hard,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-sobel_3x3-s01,sobel_3x3,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-sobel_3x3-s02,sobel_3x3,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-sobel_3x3-s03,sobel_3x3,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-sobel_3x3-s04,sobel_3x3,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-sobel_3x3-s07,sobel_3x3,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-sobel_3x3-s09,sobel_3x3,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-crc32_stream-s00,crc32_stream,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-crc32_stream-s01,crc32_stream,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-crc32_stream-s02,crc32_stream,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-crc32_stream-s03,crc32_stream,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-crc32_stream-s04,crc32_stream,hard,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-crc32_stream-s05,crc32_stream,hard,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A2 No gate,A2-crc32_stream-s07,crc32_stream,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-vector_add-s00,vector_add,easy,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-vector_add-s01,vector_add,easy,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-axpy-s08,axpy,easy,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-fir16-s00,fir16,easy,qualification,constraint_violation,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-dot_product-s00,dot_product,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-dot_product-s05,dot_product,medium,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-dot_product-s06,dot_product,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-matrix_multiply_4x4-s01,matrix_multiply_4x4,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-convolution_1d-s02,convolution_1d,medium,qualification,constraint_violation,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-convolution_1d-s03,convolution_1d,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-convolution_1d-s04,convolution_1d,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-convolution_1d-s06,convolution_1d,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-convolution_1d-s08,convolution_1d,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-convolution_1d-s09,convolution_1d,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-fft8-s00,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-fft8-s03,fft8,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-fft8-s04,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-fft8-s06,fft8,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-fft8-s08,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-fft8-s09,fft8,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-sobel_3x3-s00,sobel_3x3,hard,qualification,constraint_violation,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-sobel_3x3-s02,sobel_3x3,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-sobel_3x3-s09,sobel_3x3,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-crc32_stream-s05,crc32_stream,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-crc32_stream-s07,crc32_stream,hard,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A3 Fixed order,A3-crc32_stream-s08,crc32_stream,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-vector_add-s04,vector_add,easy,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-vector_add-s05,vector_add,easy,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-vector_add-s09,vector_add,easy,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-axpy-s00,axpy,easy,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-axpy-s01,axpy,easy,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-axpy-s03,axpy,easy,qualification,constraint_violation,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-axpy-s04,axpy,easy,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-axpy-s06,axpy,easy,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-axpy-s07,axpy,easy,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fir16-s00,fir16,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fir16-s04,fir16,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fir16-s06,fir16,easy,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-moving_average-s00,moving_average,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-moving_average-s01,moving_average,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-moving_average-s02,moving_average,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-moving_average-s05,moving_average,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-moving_average-s06,moving_average,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-moving_average-s07,moving_average,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-dot_product-s02,dot_product,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-dot_product-s05,dot_product,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-dot_product-s07,dot_product,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-dot_product-s08,dot_product,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-matrix_multiply_4x4-s01,matrix_multiply_4x4,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-matrix_multiply_4x4-s03,matrix_multiply_4x4,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-matrix_multiply_4x4-s05,matrix_multiply_4x4,medium,qualification,constraint_violation,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-matrix_multiply_4x4-s06,matrix_multiply_4x4,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-matrix_multiply_4x4-s07,matrix_multiply_4x4,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-matrix_multiply_4x4-s08,matrix_multiply_4x4,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-convolution_1d-s00,convolution_1d,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-convolution_1d-s01,convolution_1d,medium,qualification,constraint_violation,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-convolution_1d-s02,convolution_1d,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-convolution_1d-s06,convolution_1d,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-convolution_1d-s07,convolution_1d,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-convolution_1d-s09,convolution_1d,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fft8-s00,fft8,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fft8-s01,fft8,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fft8-s02,fft8,hard,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fft8-s03,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fft8-s04,fft8,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fft8-s05,fft8,hard,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fft8-s07,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fft8-s08,fft8,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-fft8-s09,fft8,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-sobel_3x3-s01,sobel_3x3,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-sobel_3x3-s02,sobel_3x3,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-sobel_3x3-s04,sobel_3x3,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-sobel_3x3-s05,sobel_3x3,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-sobel_3x3-s06,sobel_3x3,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-sobel_3x3-s07,sobel_3x3,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-sobel_3x3-s08,sobel_3x3,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-sobel_3x3-s09,sobel_3x3,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-crc32_stream-s01,crc32_stream,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-crc32_stream-s02,crc32_stream,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-crc32_stream-s03,crc32_stream,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-crc32_stream-s04,crc32_stream,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-crc32_stream-s05,crc32_stream,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A4 Single proposal,A4-crc32_stream-s07,crc32_stream,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-vector_add-s00,vector_add,easy,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-vector_add-s01,vector_add,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-vector_add-s04,vector_add,easy,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-vector_add-s05,vector_add,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-vector_add-s08,vector_add,easy,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-axpy-s01,axpy,easy,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-axpy-s02,axpy,easy,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-axpy-s03,axpy,easy,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-axpy-s04,axpy,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-axpy-s06,axpy,easy,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-axpy-s07,axpy,easy,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-axpy-s08,axpy,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-axpy-s09,axpy,easy,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fir16-s00,fir16,easy,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fir16-s01,fir16,easy,qualification,constraint_violation,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fir16-s07,fir16,easy,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fir16-s08,fir16,easy,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-moving_average-s00,moving_average,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-moving_average-s02,moving_average,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-moving_average-s03,moving_average,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-moving_average-s04,moving_average,medium,qualification,c_synthesis_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-moving_average-s05,moving_average,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-moving_average-s06,moving_average,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-moving_average-s07,moving_average,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-moving_average-s08,moving_average,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-dot_product-s00,dot_product,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-dot_product-s03,dot_product,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-dot_product-s04,dot_product,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-dot_product-s05,dot_product,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-dot_product-s06,dot_product,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-dot_product-s07,dot_product,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-dot_product-s08,dot_product,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-dot_product-s09,dot_product,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-matrix_multiply_4x4-s00,matrix_multiply_4x4,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-matrix_multiply_4x4-s01,matrix_multiply_4x4,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-matrix_multiply_4x4-s02,matrix_multiply_4x4,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-matrix_multiply_4x4-s03,matrix_multiply_4x4,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-matrix_multiply_4x4-s04,matrix_multiply_4x4,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-matrix_multiply_4x4-s06,matrix_multiply_4x4,medium,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-matrix_multiply_4x4-s07,matrix_multiply_4x4,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-matrix_multiply_4x4-s08,matrix_multiply_4x4,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-matrix_multiply_4x4-s09,matrix_multiply_4x4,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-convolution_1d-s00,convolution_1d,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-convolution_1d-s03,convolution_1d,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-convolution_1d-s04,convolution_1d,medium,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-convolution_1d-s06,convolution_1d,medium,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-convolution_1d-s07,convolution_1d,medium,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fft8-s00,fft8,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fft8-s01,fft8,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fft8-s02,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fft8-s05,fft8,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fft8-s06,fft8,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fft8-s07,fft8,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fft8-s08,fft8,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-fft8-s09,fft8,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-sobel_3x3-s00,sobel_3x3,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-sobel_3x3-s01,sobel_3x3,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-sobel_3x3-s02,sobel_3x3,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-sobel_3x3-s03,sobel_3x3,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-sobel_3x3-s04,sobel_3x3,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-sobel_3x3-s05,sobel_3x3,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-sobel_3x3-s06,sobel_3x3,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-sobel_3x3-s07,sobel_3x3,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-sobel_3x3-s08,sobel_3x3,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-sobel_3x3-s09,sobel_3x3,hard,qualification,metrics_parse_failure,True,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-crc32_stream-s00,crc32_stream,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-crc32_stream-s01,crc32_stream,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-crc32_stream-s02,crc32_stream,hard,heldout,interface_mismatch,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-crc32_stream-s03,crc32_stream,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-crc32_stream-s04,crc32_stream,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-crc32_stream-s05,crc32_stream,hard,heldout,numerical_tolerance,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-crc32_stream-s07,crc32_stream,hard,heldout,wrong_arithmetic,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION
+True,A5 Rules,A5-crc32_stream-s08,crc32_stream,hard,heldout,boundary_case,False,False,SYNTHETIC DEMONSTRATION ROW - NOT AN EXPERIMENTAL OBSERVATION

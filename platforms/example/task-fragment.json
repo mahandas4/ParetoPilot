@@ -1,0 +1,14 @@
+{
+  "external_commands": {
+    "implement": ["bash", "run_implementation.sh", "{source}", "{workdir}/implementation_metrics.json"],
+    "hardware": ["bash", "run_hardware.sh", "{source}", "{workdir}/hardware_metrics.json"]
+  },
+  "report_files": {
+    "implement": "implementation_metrics.json",
+    "hardware": "hardware_metrics.json"
+  },
+  "budget": {
+    "limits": {"implement": 2, "hardware": 2},
+    "costs": {"implement": 12, "hardware": 12}
+  }
+}

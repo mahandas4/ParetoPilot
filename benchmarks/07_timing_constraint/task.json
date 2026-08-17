@@ -1,0 +1,1 @@
+{"extends":"../defaults.json","name":"07_timing_constraint","difficulty":"hard","clock_ns":3.0,"constraints":{"max_clock_ns":3.0}}

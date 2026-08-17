@@ -1,0 +1,1 @@
+{"extends":"../defaults.json","name":"08_resource_limit","difficulty":"hard","constraints":{"max_dsp":4}}

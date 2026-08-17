@@ -1,0 +1,241 @@
+{
+  "synthetic_example": true,
+  "warning": "FORMAT DEMO ONLY - NOT EXPERIMENTAL EVIDENCE",
+  "bootstrap_seed": 20260814,
+  "bootstrap_resamples": 10000,
+  "total_trials": 600,
+  "systems": {
+    "A0 Full": {
+      "n": 100,
+      "heldout_correct": 87,
+      "heldout_rate_pct": 87,
+      "heldout_wilson_95_pct": [
+        79.0,
+        92.2
+      ],
+      "cq_synthesis": 82,
+      "cq_rate_pct": 82,
+      "cq_wilson_95_pct": [
+        73.3,
+        88.3
+      ],
+      "credits_median": 31.0,
+      "credits_bootstrap_95": [
+        31.0,
+        31.0
+      ]
+    },
+    "A1 No diagnosis": {
+      "n": 100,
+      "heldout_correct": 72,
+      "heldout_rate_pct": 72,
+      "heldout_wilson_95_pct": [
+        62.5,
+        79.9
+      ],
+      "cq_synthesis": 67,
+      "cq_rate_pct": 67,
+      "cq_wilson_95_pct": [
+        57.3,
+        75.4
+      ],
+      "credits_median": 37.0,
+      "credits_bootstrap_95": [
+        37.0,
+        37.0
+      ]
+    },
+    "A2 No gate": {
+      "n": 100,
+      "heldout_correct": 64,
+      "heldout_rate_pct": 64,
+      "heldout_wilson_95_pct": [
+        54.2,
+        72.7
+      ],
+      "cq_synthesis": 51,
+      "cq_rate_pct": 51,
+      "cq_wilson_95_pct": [
+        41.3,
+        60.6
+      ],
+      "credits_median": 42.0,
+      "credits_bootstrap_95": [
+        42.0,
+        42.0
+      ]
+    },
+    "A3 Fixed order": {
+      "n": 100,
+      "heldout_correct": 80,
+      "heldout_rate_pct": 80,
+      "heldout_wilson_95_pct": [
+        71.1,
+        86.7
+      ],
+      "cq_synthesis": 74,
+      "cq_rate_pct": 74,
+      "cq_wilson_95_pct": [
+        64.6,
+        81.6
+      ],
+      "credits_median": 41.0,
+      "credits_bootstrap_95": [
+        41.0,
+        41.0
+      ]
+    },
+    "A4 Single proposal": {
+      "n": 100,
+      "heldout_correct": 49,
+      "heldout_rate_pct": 49,
+      "heldout_wilson_95_pct": [
+        39.4,
+        58.7
+      ],
+      "cq_synthesis": 43,
+      "cq_rate_pct": 43,
+      "cq_wilson_95_pct": [
+        33.7,
+        52.8
+      ],
+      "credits_median": 11.0,
+      "credits_bootstrap_95": [
+        11.0,
+        11.0
+      ]
+    },
+    "A5 Rules": {
+      "n": 100,
+      "heldout_correct": 31,
+      "heldout_rate_pct": 31,
+      "heldout_wilson_95_pct": [
+        22.8,
+        40.6
+      ],
+      "cq_synthesis": 27,
+      "cq_rate_pct": 27,
+      "cq_wilson_95_pct": [
+        19.3,
+        36.4
+      ],
+      "credits_median": 22.0,
+      "credits_bootstrap_95": [
+        22.0,
+        22.0
+      ]
+    }
+  },
+  "a0_stratification": {
+    "easy": {
+      "n": 30,
+      "heldout_correct": 29,
+      "heldout_wilson_95_pct": [
+        83.3,
+        99.4
+      ],
+      "cq_synthesis": 28,
+      "cq_wilson_95_pct": [
+        78.7,
+        98.2
+      ]
+    },
+    "medium": {
+      "n": 40,
+      "heldout_correct": 35,
+      "heldout_wilson_95_pct": [
+        73.9,
+        94.5
+      ],
+      "cq_synthesis": 33,
+      "cq_wilson_95_pct": [
+        68.1,
+        91.3
+      ]
+    },
+    "hard": {
+      "n": 30,
+      "heldout_correct": 23,
+      "heldout_wilson_95_pct": [
+        59.1,
+        88.2
+      ],
+      "cq_synthesis": 21,
+      "cq_wilson_95_pct": [
+        52.1,
+        83.3
+      ]
+    }
+  },
+  "a0_paired_metrics": {
+    "latency_change_pct": {
+      "n": 72,
+      "median_pct": -21.5,
+      "bootstrap_95_pct": [
+        -24.1345,
+        -19.0489
+      ]
+    },
+    "lut_change_pct": {
+      "n": 72,
+      "median_pct": 4.1,
+      "bootstrap_95_pct": [
+        0.0125,
+        7.4664
+      ]
+    },
+    "dsp_change_pct": {
+      "n": 70,
+      "median_pct": -5.4,
+      "bootstrap_95_pct": [
+        -8.7641,
+        -0.5065
+      ]
+    },
+    "bram_change_pct": {
+      "n": 69,
+      "median_pct": 1.8,
+      "bootstrap_95_pct": [
+        0.4881,
+        3.5599
+      ]
+    }
+  },
+  "a0_failure_counts": [
+    {
+      "stage": "heldout",
+      "category": "boundary_case",
+      "count": 6
+    },
+    {
+      "stage": "heldout",
+      "category": "interface_mismatch",
+      "count": 2
+    },
+    {
+      "stage": "heldout",
+      "category": "numerical_tolerance",
+      "count": 3
+    },
+    {
+      "stage": "heldout",
+      "category": "wrong_arithmetic",
+      "count": 2
+    },
+    {
+      "stage": "qualification",
+      "category": "c_synthesis_failure",
+      "count": 2
+    },
+    {
+      "stage": "qualification",
+      "category": "constraint_violation",
+      "count": 2
+    },
+    {
+      "stage": "qualification",
+      "category": "metrics_parse_failure",
+      "count": 1
+    }
+  ]
+}

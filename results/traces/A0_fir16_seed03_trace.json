@@ -1,0 +1,167 @@
+{
+  "synthetic_example": false,
+  "trial_id": "A0-fir16-s03",
+  "model": "qwen/qwen-2.5-coder-32b-instruct",
+  "credit_limit": 45,
+  "recorded_llm_requests": 8,
+  "recorded_evaluator_credits": 32,
+  "selected_candidate": "cand-003",
+  "events": [
+    {
+      "step": 1,
+      "event": "llm_request",
+      "request": 1,
+      "evaluator_credit_delta": 0,
+      "remaining": 45
+    },
+    {
+      "step": 2,
+      "event": "evaluation",
+      "candidate": "cand-001",
+      "stages": [
+        "csim",
+        "csynth",
+        "cosim"
+      ],
+      "status": "pass",
+      "evaluator_credit_delta": 11,
+      "remaining": 34
+    },
+    {
+      "step": 3,
+      "event": "llm_request",
+      "request": 2,
+      "evaluator_credit_delta": 0,
+      "remaining": 34
+    },
+    {
+      "step": 4,
+      "event": "evaluation",
+      "candidate": "cand-002",
+      "stages": [
+        "csim"
+      ],
+      "status": "fail",
+      "evaluator_credit_delta": 1,
+      "remaining": 33
+    },
+    {
+      "step": 5,
+      "event": "llm_request",
+      "request": 3,
+      "evaluator_credit_delta": 0,
+      "remaining": 33
+    },
+    {
+      "step": 6,
+      "event": "evaluation",
+      "candidate": "cand-003",
+      "stages": [
+        "csim",
+        "csynth",
+        "cosim"
+      ],
+      "status": "pass",
+      "evaluator_credit_delta": 11,
+      "remaining": 22
+    },
+    {
+      "step": 7,
+      "event": "llm_request",
+      "request": 4,
+      "evaluator_credit_delta": 0,
+      "remaining": 22
+    },
+    {
+      "step": 8,
+      "event": "evaluation",
+      "candidate": "cand-004",
+      "stages": [
+        "csim"
+      ],
+      "status": "fail",
+      "evaluator_credit_delta": 1,
+      "remaining": 21
+    },
+    {
+      "step": 9,
+      "event": "llm_request",
+      "request": 5,
+      "evaluator_credit_delta": 0,
+      "remaining": 21
+    },
+    {
+      "step": 10,
+      "event": "evaluation",
+      "candidate": "cand-005",
+      "stages": [
+        "csim",
+        "csynth"
+      ],
+      "status": "pass",
+      "evaluator_credit_delta": 5,
+      "remaining": 16
+    },
+    {
+      "step": 11,
+      "event": "llm_request",
+      "request": 6,
+      "evaluator_credit_delta": 0,
+      "remaining": 16
+    },
+    {
+      "step": 12,
+      "event": "evaluation",
+      "candidate": "cand-006",
+      "stages": [
+        "csim"
+      ],
+      "status": "pass",
+      "evaluator_credit_delta": 1,
+      "remaining": 15
+    },
+    {
+      "step": 13,
+      "event": "llm_request",
+      "request": 7,
+      "evaluator_credit_delta": 0,
+      "remaining": 15
+    },
+    {
+      "step": 14,
+      "event": "evaluation",
+      "candidate": "cand-007",
+      "stages": [
+        "csim"
+      ],
+      "status": "fail",
+      "evaluator_credit_delta": 1,
+      "remaining": 14
+    },
+    {
+      "step": 15,
+      "event": "llm_request",
+      "request": 8,
+      "evaluator_credit_delta": 0,
+      "remaining": 14
+    },
+    {
+      "step": 16,
+      "event": "evaluation",
+      "candidate": "cand-008",
+      "stages": [
+        "csim"
+      ],
+      "status": "pass",
+      "evaluator_credit_delta": 1,
+      "remaining": 13
+    },
+    {
+      "step": 17,
+      "event": "final_selection",
+      "candidate": "cand-003",
+      "heldout_status": "pass",
+      "remaining": 13
+    }
+  ]
+}
