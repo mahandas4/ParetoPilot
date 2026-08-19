@@ -1,5 +1,8 @@
 # ParetoPilot results
 
+
+CURRENTLY PARTIALLY UNTESTED, RESULTS WILL BE PUBLISHED AFTER COMPETITION PROCESS
+
 ## Files
 
 - `trials.csv`: 600 rows, one per configuration/fixture/seed trial.
